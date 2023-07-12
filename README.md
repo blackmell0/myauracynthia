@@ -29,7 +29,6 @@ Cynthia.html
     </head>
     <body>
         <h1>Welcome To Cynthia Aura's Page</h1>
-        <img src="file:///C:/Users/KYM/Downloads/Aura.html" alt="Cynthia Aura"
         <div class="poem">
             <h2>A poem for Cynthia Aura</h2>
             <p>
